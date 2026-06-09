@@ -1,1 +1,5 @@
-# IA-GS1
+
+
+
+Demonstração (prints de testes):
+- 
