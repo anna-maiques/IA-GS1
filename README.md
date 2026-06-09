@@ -49,3 +49,4 @@ https://colab.research.google.com/drive/1P0UrTj-CfpmwaI3tPpyduqejAO2XYJKM?usp=sh
 ----------------------
 
 - Vídeo
+https://drive.google.com/file/d/1weba6mc-lN_1m63bXk9Nz9UaNc7Ru0EE/view?usp=sharing 
