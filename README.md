@@ -43,7 +43,7 @@ https://colab.research.google.com/drive/1P0UrTj-CfpmwaI3tPpyduqejAO2XYJKM?usp=sh
   - Análise da IA
 ![Análise da IA](prints/cenario2-analise.png)
 
- - Resumo Final
+  - Resumo Final
 ![Resumo Final](prints/cenario2-resumo.png)
 
 ----------------------
