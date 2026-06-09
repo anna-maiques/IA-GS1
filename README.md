@@ -1,14 +1,14 @@
-#Integrantes: 
+# Integrantes: 
 Anna Cecília Guimarães Maiques Lima de Carvalho — RM 570955
 Fernando Bonfim Hoefle — RM 569920
 Lucas Parkin Devito — RM 573251
 
-#Descrição do Projeto 
+# Descrição do Projeto 
   Um sistema monitoramento de missões espaciais que permite que os dados operacionais da missão sejam inseridos manualmente pelo usuário ou gerados automaticamente por meio de simulações, sendo organizados e apresentados de forma estruturada através de tabelas e gráficos para facilitar a visualização do estado da nave.
   O sistema monitora os indicadores de temperatura da nave, nível de energia disponível, status da comunicação e condição do sistema de geração de energia solar. E utiliza dessas informações para gerar alertas automáticos, recomendações operacionais e uma avaliação da saúde geral da missão.
   Além disso, o projeto integra Inteligência Artificial Generativa para analisar os dados coletados de forma contextualizada. A IA identifica possíveis riscos, avalia os alertas detectados pelo sistema e sugere ações corretivas para a equipe de controle, contribuindo para uma tomada de decisão mais eficiente.
 
-#Tecnologias Utilizadas
+# Tecnologias Utilizadas
 - Google Colab
   - OpenAI API (GPT-4o Mini)
   - Python
@@ -17,11 +17,11 @@ Lucas Parkin Devito — RM 573251
     - OpenAI
     - Random
 
-#Google Colab 
+# Google Colab 
 
 https://colab.research.google.com/drive/1P0UrTj-CfpmwaI3tPpyduqejAO2XYJKM?usp=sharing
 
-#Demonstração:
+# Demonstração:
 
 - Cenário 1
   - Dados da Missão
